@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Privada
+comment1.params=nome\ qal\ qpr\ mensal
+comment1.target=Privada(java.lang.String,\ int,\ int,\ double)
+comment2.params=
+comment2.target=double\ getMensal()
+comment3.params=mensal
+comment3.target=void\ setMensal(double)
+comment4.params=
+comment4.target=void\ Exibe()
+numComments=5
